@@ -1,5 +1,5 @@
-Git is a version control system
+ï»¿Git is a version control system
 Git is free software
 
-·¢µÄ·¢´óÈö´óÈö´óÈö¡¤
-qqqqq
+å‘çš„å‘å¤§æ’’å¤§æ’’å¤§æ’’Â·
+qqqqqaaa
