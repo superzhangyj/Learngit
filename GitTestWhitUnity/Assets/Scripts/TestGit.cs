@@ -17,4 +17,10 @@ public class TestGit : MonoBehaviour
     {
         print("This is a test for the branch");
     }
+
+    void tuisong()
+    {
+        print("This is test for local tuisong");
+
+    }
 }
