@@ -8,6 +8,7 @@ public class TestGit : MonoBehaviour
     void Start()
     {
       //???
+    	print("This is a test Git for the zyp");
     }
 
     // Update is called once per frame
