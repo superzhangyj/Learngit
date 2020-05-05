@@ -9,6 +9,7 @@ public class TestGit : MonoBehaviour
     {
       //???
     	print("This is a test Git for the zyp");
+        print("This is a test Git for the zyj");
     }
 
     // Update is called once per frame
