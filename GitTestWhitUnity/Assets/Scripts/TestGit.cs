@@ -14,6 +14,6 @@ public class TestGit : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        print("This is a test for the branch");
     }
 }
