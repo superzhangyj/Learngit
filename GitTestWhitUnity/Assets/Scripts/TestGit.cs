@@ -10,6 +10,7 @@ public class TestGit : MonoBehaviour
       //???
     	print("This is a test Git for the zyp");
         print("This is a test Git for the zyj");
+        System.Console.Write("fadfafdasfasfdafasdfafsdfdsfasdfsadfasfsfsdfsfsdf");
     }
 
     // Update is called once per frame
